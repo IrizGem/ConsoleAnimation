@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0da3fc8-2b01-4a24-9441-dc05dcb050f0": {
+      "ProjectGuid": "d0da3fc8-2b01-4a24-9441-dc05dcb050f0",
+      "DisplayName": "ConsoleTree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
